@@ -21,7 +21,7 @@ z = np.exp(theta_radians * 1j) + np.exp(np.pi * theta_radians * 1j)
 x = np.real(z)
 y = np.imag(z)
 
-music_file_path = "C:/Users/baver/Desktop/Pi Itheration Design/Music/Can You Hear The Music.mp3"  # MP3 dosyanızın gerçek yolunu ekleyin
+music_file_path = "You can write file path here"  # MP3 dosyanızın gerçek yolunu ekleyin
 pygame.mixer.init()
 pygame.mixer.music.load(music_file_path)
 pygame.mixer.music.play()
@@ -32,5 +32,4 @@ for i in range(len(x)):
     pi_turtle.goto(x[i] * 100, y[i] * 100)
     pi_turtle.pendown()
     
-
 screen.exitonclick()

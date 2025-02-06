@@ -3,7 +3,6 @@
 <br><br>
 ### Drawing_Iteration_of_Pi.py
 I wrote background music part for listen when code is running and drawing the design of Pi Iteration.
-<br><br>
 https://github.com/user-attachments/assets/b58f3403-6787-4dd5-99d1-e7ef53bfe50d
 <br><br>
 ### Pi.py

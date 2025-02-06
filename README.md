@@ -4,7 +4,7 @@
 ### Drawing_Iteration_of_Pi.py
 I wrote background music part for listen when code is running and drawing the design of Pi Iteration.
 https://github.com/user-attachments/assets/b58f3403-6787-4dd5-99d1-e7ef53bfe50d
-![Image](https://github.com/user-attachments/assets/d9b0dccc-dc65-4ee1-8b8b-9c0cd25f77bb)
+![Image](https://github.com/user-attachments/assets/de41847a-fd7d-4de1-91ef-010266ce81ef)
 <br><br>
 ### Pi.py
 That code for show the figure of the Pi Iteration's final design and there's some buttons(home, move, zoom, settings, save&download) there for to use.

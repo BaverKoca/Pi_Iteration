@@ -5,7 +5,6 @@ import pygame
 import time
 
 
-# Turtle penceresini oluştur
 screen = turtle.Screen()
 screen.title("Write Pi's iteartion")
 
@@ -21,7 +20,7 @@ z = np.exp(theta_radians * 1j) + np.exp(np.pi * theta_radians * 1j)
 x = np.real(z)
 y = np.imag(z)
 
-music_file_path = "You can write file path here"  # MP3 dosyanızın gerçek yolunu ekleyin
+music_file_path = "You can write file path here"  # Don't forget to write .mp3 too
 pygame.mixer.init()
 pygame.mixer.music.load(music_file_path)
 pygame.mixer.music.play()
